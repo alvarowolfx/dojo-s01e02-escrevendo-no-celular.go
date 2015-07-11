@@ -1,7 +1,6 @@
-package test
+package cellphone
 
 import (
-	. "dojo-s01e02-escrevendo-no-celular.go/lib"
 	. "github.com/smartystreets/goconvey/convey"
 	"testing"
 )
