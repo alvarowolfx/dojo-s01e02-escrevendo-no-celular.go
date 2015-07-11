@@ -1,4 +1,4 @@
-# Dojo DevMT S01E02 (Versão em Go Lang)
+# Dojo DevMT S01E02 (Versão em Go Lang) [![Build Status](https://travis-ci.org/alvarowolfx/dojo-s01e02-escrevendo-no-celular.go.svg?branch=master)](https://travis-ci.org/alvarowolfx/dojo-s01e02-escrevendo-no-celular.go)
 #### Versão original desenvolvida em Clojure. [Disponivel aqui](https://github.com/devmatogrosso/dojo-s01e02-escrevendo-no-celular)
 
 ## Data e Local
